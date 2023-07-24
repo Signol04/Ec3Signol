@@ -1,4 +1,4 @@
-@server = INSERTAR URL DE RENDER ACÁ
+@server = https://render-eva3.onrender.com
 @api = {{server}}/api/ec3
 
 ################ Categorias: ################
